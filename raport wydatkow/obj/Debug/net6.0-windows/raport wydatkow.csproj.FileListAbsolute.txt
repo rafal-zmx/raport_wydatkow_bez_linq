@@ -1,0 +1,192 @@
+y:\Moje Dokumenty\Nauka\cwiczenia visual C#\Przyklady - programy\raport wydatków wer.3 z bd\raport wydatkow\raport wydatkow\bin\Debug\net6.0-windows\raport wydatkow.exe
+y:\Moje Dokumenty\Nauka\cwiczenia visual C#\Przyklady - programy\raport wydatków wer.3 z bd\raport wydatkow\raport wydatkow\bin\Debug\net6.0-windows\raport wydatkow.deps.json
+y:\Moje Dokumenty\Nauka\cwiczenia visual C#\Przyklady - programy\raport wydatków wer.3 z bd\raport wydatkow\raport wydatkow\bin\Debug\net6.0-windows\raport wydatkow.runtimeconfig.json
+y:\Moje Dokumenty\Nauka\cwiczenia visual C#\Przyklady - programy\raport wydatków wer.3 z bd\raport wydatkow\raport wydatkow\bin\Debug\net6.0-windows\raport wydatkow.dll
+y:\Moje Dokumenty\Nauka\cwiczenia visual C#\Przyklady - programy\raport wydatków wer.3 z bd\raport wydatkow\raport wydatkow\bin\Debug\net6.0-windows\raport wydatkow.pdb
+y:\Moje Dokumenty\Nauka\cwiczenia visual C#\Przyklady - programy\raport wydatków wer.3 z bd\raport wydatkow\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.csproj.AssemblyReference.cache
+y:\Moje Dokumenty\Nauka\cwiczenia visual C#\Przyklady - programy\raport wydatków wer.3 z bd\raport wydatkow\raport wydatkow\obj\Debug\net6.0-windows\raport_wydatkow.Form1.resources
+y:\Moje Dokumenty\Nauka\cwiczenia visual C#\Przyklady - programy\raport wydatków wer.3 z bd\raport wydatkow\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.csproj.GenerateResource.cache
+y:\Moje Dokumenty\Nauka\cwiczenia visual C#\Przyklady - programy\raport wydatków wer.3 z bd\raport wydatkow\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.GeneratedMSBuildEditorConfig.editorconfig
+y:\Moje Dokumenty\Nauka\cwiczenia visual C#\Przyklady - programy\raport wydatków wer.3 z bd\raport wydatkow\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.AssemblyInfoInputs.cache
+y:\Moje Dokumenty\Nauka\cwiczenia visual C#\Przyklady - programy\raport wydatków wer.3 z bd\raport wydatkow\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.AssemblyInfo.cs
+y:\Moje Dokumenty\Nauka\cwiczenia visual C#\Przyklady - programy\raport wydatków wer.3 z bd\raport wydatkow\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.csproj.CoreCompileInputs.cache
+y:\Moje Dokumenty\Nauka\cwiczenia visual C#\Przyklady - programy\raport wydatków wer.3 z bd\raport wydatkow\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.dll
+y:\Moje Dokumenty\Nauka\cwiczenia visual C#\Przyklady - programy\raport wydatków wer.3 z bd\raport wydatkow\raport wydatkow\obj\Debug\net6.0-windows\refint\raport wydatkow.dll
+y:\Moje Dokumenty\Nauka\cwiczenia visual C#\Przyklady - programy\raport wydatków wer.3 z bd\raport wydatkow\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.pdb
+y:\Moje Dokumenty\Nauka\cwiczenia visual C#\Przyklady - programy\raport wydatków wer.3 z bd\raport wydatkow\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.genruntimeconfig.cache
+y:\Moje Dokumenty\Nauka\cwiczenia visual C#\Przyklady - programy\raport wydatków wer.3 z bd\raport wydatkow\raport wydatkow\obj\Debug\net6.0-windows\ref\raport wydatkow.dll
+y:\Moje Dokumenty\Nauka\cwiczenia visual C#\Przyklady - programy\raport wydatków wer.3 z bd\raport wydatkow\raport wydatkow\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+y:\Moje Dokumenty\Nauka\cwiczenia visual C#\Przyklady - programy\raport wydatków wer.3 z bd\raport wydatkow\raport wydatkow\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+y:\Moje Dokumenty\Nauka\cwiczenia visual C#\Przyklady - programy\raport wydatków wer.3 z bd\raport wydatkow\raport wydatkow\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+y:\Moje Dokumenty\Nauka\cwiczenia visual C#\Przyklady - programy\raport wydatków wer.3 z bd\raport wydatkow\raport wydatkow\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+y:\Moje Dokumenty\Nauka\cwiczenia visual C#\Przyklady - programy\raport wydatków wer.3 z bd\raport wydatkow\raport wydatkow\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+y:\Moje Dokumenty\Nauka\cwiczenia visual C#\Przyklady - programy\raport wydatków wer.3 z bd\raport wydatkow\raport wydatkow\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+y:\Moje Dokumenty\Nauka\cwiczenia visual C#\Przyklady - programy\raport wydatków wer.3 z bd\raport wydatkow\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.csproj.CopyComplete
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt\raport wydatkow\raport wydatkow\bin\Debug\net6.0-windows\raport wydatkow.exe
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt\raport wydatkow\raport wydatkow\bin\Debug\net6.0-windows\raport wydatkow.deps.json
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt\raport wydatkow\raport wydatkow\bin\Debug\net6.0-windows\raport wydatkow.runtimeconfig.json
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt\raport wydatkow\raport wydatkow\bin\Debug\net6.0-windows\raport wydatkow.dll
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt\raport wydatkow\raport wydatkow\bin\Debug\net6.0-windows\raport wydatkow.pdb
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt\raport wydatkow\raport wydatkow\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt\raport wydatkow\raport wydatkow\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt\raport wydatkow\raport wydatkow\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt\raport wydatkow\raport wydatkow\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt\raport wydatkow\raport wydatkow\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt\raport wydatkow\raport wydatkow\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt\raport wydatkow\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.csproj.AssemblyReference.cache
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt\raport wydatkow\raport wydatkow\obj\Debug\net6.0-windows\raport_wydatkow.Form1.resources
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt\raport wydatkow\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.csproj.GenerateResource.cache
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt\raport wydatkow\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt\raport wydatkow\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.AssemblyInfoInputs.cache
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt\raport wydatkow\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.AssemblyInfo.cs
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt\raport wydatkow\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.csproj.CoreCompileInputs.cache
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt\raport wydatkow\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.csproj.CopyComplete
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt\raport wydatkow\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.dll
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt\raport wydatkow\raport wydatkow\obj\Debug\net6.0-windows\refint\raport wydatkow.dll
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt\raport wydatkow\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.pdb
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt\raport wydatkow\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.genruntimeconfig.cache
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt\raport wydatkow\raport wydatkow\obj\Debug\net6.0-windows\ref\raport wydatkow.dll
+c:\Users\rabucewicz\Downloads\Projekt\raport wydatkow\raport wydatkow\bin\Debug\net6.0-windows\raport wydatkow.exe
+c:\Users\rabucewicz\Downloads\Projekt\raport wydatkow\raport wydatkow\bin\Debug\net6.0-windows\raport wydatkow.deps.json
+c:\Users\rabucewicz\Downloads\Projekt\raport wydatkow\raport wydatkow\bin\Debug\net6.0-windows\raport wydatkow.runtimeconfig.json
+c:\Users\rabucewicz\Downloads\Projekt\raport wydatkow\raport wydatkow\bin\Debug\net6.0-windows\raport wydatkow.dll
+c:\Users\rabucewicz\Downloads\Projekt\raport wydatkow\raport wydatkow\bin\Debug\net6.0-windows\raport wydatkow.pdb
+c:\Users\rabucewicz\Downloads\Projekt\raport wydatkow\raport wydatkow\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+c:\Users\rabucewicz\Downloads\Projekt\raport wydatkow\raport wydatkow\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+c:\Users\rabucewicz\Downloads\Projekt\raport wydatkow\raport wydatkow\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+c:\Users\rabucewicz\Downloads\Projekt\raport wydatkow\raport wydatkow\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+c:\Users\rabucewicz\Downloads\Projekt\raport wydatkow\raport wydatkow\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+c:\Users\rabucewicz\Downloads\Projekt\raport wydatkow\raport wydatkow\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+c:\Users\rabucewicz\Downloads\Projekt\raport wydatkow\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.csproj.AssemblyReference.cache
+c:\Users\rabucewicz\Downloads\Projekt\raport wydatkow\raport wydatkow\obj\Debug\net6.0-windows\raport_wydatkow.Form1.resources
+c:\Users\rabucewicz\Downloads\Projekt\raport wydatkow\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.csproj.GenerateResource.cache
+c:\Users\rabucewicz\Downloads\Projekt\raport wydatkow\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\rabucewicz\Downloads\Projekt\raport wydatkow\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.AssemblyInfoInputs.cache
+c:\Users\rabucewicz\Downloads\Projekt\raport wydatkow\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.AssemblyInfo.cs
+c:\Users\rabucewicz\Downloads\Projekt\raport wydatkow\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.csproj.CoreCompileInputs.cache
+c:\Users\rabucewicz\Downloads\Projekt\raport wydatkow\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.csproj.CopyComplete
+c:\Users\rabucewicz\Downloads\Projekt\raport wydatkow\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.dll
+c:\Users\rabucewicz\Downloads\Projekt\raport wydatkow\raport wydatkow\obj\Debug\net6.0-windows\refint\raport wydatkow.dll
+c:\Users\rabucewicz\Downloads\Projekt\raport wydatkow\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.pdb
+c:\Users\rabucewicz\Downloads\Projekt\raport wydatkow\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.genruntimeconfig.cache
+c:\Users\rabucewicz\Downloads\Projekt\raport wydatkow\raport wydatkow\obj\Debug\net6.0-windows\ref\raport wydatkow.dll
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer2\raport wydatkow\bin\Debug\net6.0-windows\raport wydatkow.exe
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer2\raport wydatkow\bin\Debug\net6.0-windows\raport wydatkow.deps.json
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer2\raport wydatkow\bin\Debug\net6.0-windows\raport wydatkow.runtimeconfig.json
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer2\raport wydatkow\bin\Debug\net6.0-windows\raport wydatkow.dll
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer2\raport wydatkow\bin\Debug\net6.0-windows\raport wydatkow.pdb
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer2\raport wydatkow\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer2\raport wydatkow\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer2\raport wydatkow\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer2\raport wydatkow\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer2\raport wydatkow\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer2\raport wydatkow\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer2\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.csproj.AssemblyReference.cache
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer2\raport wydatkow\obj\Debug\net6.0-windows\raport_wydatkow.Form1.resources
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer2\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.csproj.GenerateResource.cache
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer2\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer2\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.AssemblyInfoInputs.cache
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer2\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.AssemblyInfo.cs
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer2\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.csproj.CoreCompileInputs.cache
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer2\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.csproj.CopyComplete
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer2\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.dll
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer2\raport wydatkow\obj\Debug\net6.0-windows\refint\raport wydatkow.dll
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer2\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.pdb
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer2\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.genruntimeconfig.cache
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer2\raport wydatkow\obj\Debug\net6.0-windows\ref\raport wydatkow.dll
+C:\Users\rabucewicz\Downloads\Projekt wer2\raport wydatkow\bin\Debug\net6.0-windows\raport wydatkow.exe
+C:\Users\rabucewicz\Downloads\Projekt wer2\raport wydatkow\bin\Debug\net6.0-windows\raport wydatkow.deps.json
+C:\Users\rabucewicz\Downloads\Projekt wer2\raport wydatkow\bin\Debug\net6.0-windows\raport wydatkow.runtimeconfig.json
+C:\Users\rabucewicz\Downloads\Projekt wer2\raport wydatkow\bin\Debug\net6.0-windows\raport wydatkow.dll
+C:\Users\rabucewicz\Downloads\Projekt wer2\raport wydatkow\bin\Debug\net6.0-windows\raport wydatkow.pdb
+C:\Users\rabucewicz\Downloads\Projekt wer2\raport wydatkow\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\rabucewicz\Downloads\Projekt wer2\raport wydatkow\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\rabucewicz\Downloads\Projekt wer2\raport wydatkow\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\rabucewicz\Downloads\Projekt wer2\raport wydatkow\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\rabucewicz\Downloads\Projekt wer2\raport wydatkow\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rabucewicz\Downloads\Projekt wer2\raport wydatkow\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rabucewicz\Downloads\Projekt wer2\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.csproj.AssemblyReference.cache
+C:\Users\rabucewicz\Downloads\Projekt wer2\raport wydatkow\obj\Debug\net6.0-windows\raport_wydatkow.Form1.resources
+C:\Users\rabucewicz\Downloads\Projekt wer2\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.csproj.GenerateResource.cache
+C:\Users\rabucewicz\Downloads\Projekt wer2\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rabucewicz\Downloads\Projekt wer2\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.AssemblyInfoInputs.cache
+C:\Users\rabucewicz\Downloads\Projekt wer2\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.AssemblyInfo.cs
+C:\Users\rabucewicz\Downloads\Projekt wer2\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.csproj.CoreCompileInputs.cache
+C:\Users\rabucewicz\Downloads\Projekt wer2\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.csproj.CopyComplete
+C:\Users\rabucewicz\Downloads\Projekt wer2\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.dll
+C:\Users\rabucewicz\Downloads\Projekt wer2\raport wydatkow\obj\Debug\net6.0-windows\refint\raport wydatkow.dll
+C:\Users\rabucewicz\Downloads\Projekt wer2\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.pdb
+C:\Users\rabucewicz\Downloads\Projekt wer2\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.genruntimeconfig.cache
+C:\Users\rabucewicz\Downloads\Projekt wer2\raport wydatkow\obj\Debug\net6.0-windows\ref\raport wydatkow.dll
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer3\raport wydatkow\bin\Debug\net6.0-windows\raport wydatkow.exe
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer3\raport wydatkow\bin\Debug\net6.0-windows\raport wydatkow.deps.json
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer3\raport wydatkow\bin\Debug\net6.0-windows\raport wydatkow.runtimeconfig.json
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer3\raport wydatkow\bin\Debug\net6.0-windows\raport wydatkow.dll
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer3\raport wydatkow\bin\Debug\net6.0-windows\raport wydatkow.pdb
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer3\raport wydatkow\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer3\raport wydatkow\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer3\raport wydatkow\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer3\raport wydatkow\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer3\raport wydatkow\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer3\raport wydatkow\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer3\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.csproj.AssemblyReference.cache
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer3\raport wydatkow\obj\Debug\net6.0-windows\raport_wydatkow.Form1.resources
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer3\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.csproj.GenerateResource.cache
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer3\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer3\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.AssemblyInfoInputs.cache
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer3\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.AssemblyInfo.cs
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer3\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.csproj.CoreCompileInputs.cache
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer3\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.csproj.CopyComplete
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer3\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.dll
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer3\raport wydatkow\obj\Debug\net6.0-windows\refint\raport wydatkow.dll
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer3\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.pdb
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer3\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.genruntimeconfig.cache
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer3\raport wydatkow\obj\Debug\net6.0-windows\ref\raport wydatkow.dll
+C:\Users\rabucewicz\Downloads\Projekt wer3\raport wydatkow\bin\Debug\net6.0-windows\raport wydatkow.exe
+C:\Users\rabucewicz\Downloads\Projekt wer3\raport wydatkow\bin\Debug\net6.0-windows\raport wydatkow.deps.json
+C:\Users\rabucewicz\Downloads\Projekt wer3\raport wydatkow\bin\Debug\net6.0-windows\raport wydatkow.runtimeconfig.json
+C:\Users\rabucewicz\Downloads\Projekt wer3\raport wydatkow\bin\Debug\net6.0-windows\raport wydatkow.dll
+C:\Users\rabucewicz\Downloads\Projekt wer3\raport wydatkow\bin\Debug\net6.0-windows\raport wydatkow.pdb
+C:\Users\rabucewicz\Downloads\Projekt wer3\raport wydatkow\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\rabucewicz\Downloads\Projekt wer3\raport wydatkow\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\rabucewicz\Downloads\Projekt wer3\raport wydatkow\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\rabucewicz\Downloads\Projekt wer3\raport wydatkow\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\rabucewicz\Downloads\Projekt wer3\raport wydatkow\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rabucewicz\Downloads\Projekt wer3\raport wydatkow\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rabucewicz\Downloads\Projekt wer3\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.csproj.AssemblyReference.cache
+C:\Users\rabucewicz\Downloads\Projekt wer3\raport wydatkow\obj\Debug\net6.0-windows\raport_wydatkow.Form1.resources
+C:\Users\rabucewicz\Downloads\Projekt wer3\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.csproj.GenerateResource.cache
+C:\Users\rabucewicz\Downloads\Projekt wer3\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rabucewicz\Downloads\Projekt wer3\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.AssemblyInfoInputs.cache
+C:\Users\rabucewicz\Downloads\Projekt wer3\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.AssemblyInfo.cs
+C:\Users\rabucewicz\Downloads\Projekt wer3\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.csproj.CoreCompileInputs.cache
+C:\Users\rabucewicz\Downloads\Projekt wer3\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.csproj.CopyComplete
+C:\Users\rabucewicz\Downloads\Projekt wer3\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.dll
+C:\Users\rabucewicz\Downloads\Projekt wer3\raport wydatkow\obj\Debug\net6.0-windows\refint\raport wydatkow.dll
+C:\Users\rabucewicz\Downloads\Projekt wer3\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.pdb
+C:\Users\rabucewicz\Downloads\Projekt wer3\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.genruntimeconfig.cache
+C:\Users\rabucewicz\Downloads\Projekt wer3\raport wydatkow\obj\Debug\net6.0-windows\ref\raport wydatkow.dll
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer4\raport wydatkow\bin\Debug\net6.0-windows\raport wydatkow.exe
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer4\raport wydatkow\bin\Debug\net6.0-windows\raport wydatkow.deps.json
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer4\raport wydatkow\bin\Debug\net6.0-windows\raport wydatkow.runtimeconfig.json
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer4\raport wydatkow\bin\Debug\net6.0-windows\raport wydatkow.dll
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer4\raport wydatkow\bin\Debug\net6.0-windows\raport wydatkow.pdb
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer4\raport wydatkow\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer4\raport wydatkow\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer4\raport wydatkow\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer4\raport wydatkow\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer4\raport wydatkow\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer4\raport wydatkow\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer4\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.csproj.AssemblyReference.cache
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer4\raport wydatkow\obj\Debug\net6.0-windows\raport_wydatkow.Form1.resources
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer4\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.csproj.GenerateResource.cache
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer4\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer4\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.AssemblyInfoInputs.cache
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer4\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.AssemblyInfo.cs
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer4\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.csproj.CoreCompileInputs.cache
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer4\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.csproj.CopyComplete
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer4\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.dll
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer4\raport wydatkow\obj\Debug\net6.0-windows\refint\raport wydatkow.dll
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer4\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.pdb
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer4\raport wydatkow\obj\Debug\net6.0-windows\raport wydatkow.genruntimeconfig.cache
+Y:\Szkola\2_rok_\4_semestr\Programowanie obiektowe 1\Projekt\Projekt wer4\raport wydatkow\obj\Debug\net6.0-windows\ref\raport wydatkow.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "raport wydatkow", "raport wydatkow\raport wydatkow.csproj", "{1967A32A-0041-4E8D-A422-D5D7092810FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1967A32A-0041-4E8D-A422-D5D7092810FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1967A32A-0041-4E8D-A422-D5D7092810FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1967A32A-0041-4E8D-A422-D5D7092810FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1967A32A-0041-4E8D-A422-D5D7092810FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A1B00A9-A306-49EE-8B35-0CDB89762405}
+	EndGlobalSection
+EndGlobal
